@@ -1,0 +1,2 @@
+module Mangala
+end
